@@ -1,0 +1,15 @@
+header {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.3)), url(../images/home.jpg);
+    min-height: 100vh;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.navbar{
+border-bottom: #0779B2 4px solid;
+    opacity: 0.6;
+}
+.create2{
+
+    background-color: #313131;
+}
